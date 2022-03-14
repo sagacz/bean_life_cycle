@@ -1,0 +1,11 @@
+2022-03-11 22:57:24,856 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'appConfiguration' of type [com.spring.lifecycle.AppConfiguration$$EnhancerBySpringCGLIB$$fe11c278] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.LibraryManager [main] Name of  the bean: libraryManager
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.LibraryManager [main] Classloader instance passed
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.LibraryManager [main] BeanFactory instance passed
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.BeanMonitor [main] Before initialization of bean: libraryManager
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.LibraryManager [main] Method with @PostConstruct annotation
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.LibraryManager [main] Properties are set
+2022-03-11 22:57:24,866 INFO com.spring.lifecycle.BeanMonitor [main] After initialziation of bean: libraryManager
+2022-03-11 22:57:24,875 INFO com.spring.lifecycle.LifecycleApplication [main] Context and beans are set up and ready to work
+2022-03-11 22:57:24,876 INFO com.spring.lifecycle.LibraryManager [main] Method with @PreDestroy annotation
+2022-03-11 22:57:24,876 INFO com.spring.lifecycle.LibraryManager [main] Method destroy has been called
